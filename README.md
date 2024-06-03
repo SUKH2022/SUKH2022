@@ -22,9 +22,7 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white)](https://www.adobe.com/)
-[![ASP.NET](https://img.shields.io/badge/-ASP.NET-5C2D91?style=flat-square&logo=ASP.NET&logoColor=white)](https://dotnet.microsoft.com/apps/aspnet)
-[![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white)](https://azure.microsoft.com/)
-[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white)](https://reactjs.org/)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 
 ### 🚀 Blast Off!
 
