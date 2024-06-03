@@ -23,6 +23,8 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 [![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white)](https://git-scm.com/)
 [![Adobe](https://img.shields.io/badge/-Adobe-FF0000?style=flat-square&logo=Adobe&logoColor=white)](https://www.adobe.com/)
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
+[![Mainframes](https://img.shields.io/badge/-Mainframes-007ACC?style=flat-square&logo=IBM&logoColor=white)](https://www.ibm.com/it-infrastructure/z/mainframe)
+[![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
 
 ### 🚀 Blast Off!
 
