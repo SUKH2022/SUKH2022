@@ -32,4 +32,9 @@ Curious about my coding endeavors? Check out my GitHub statistics:
 
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sukh2022&theme=tokyonight)
 
+### 😎 Github stats:
+<a href="https://github.com/anuraghazra/convoychat">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukh2022&layout=compact" />
+</a>
+
 Ready to build something amazing together? Let's connect and embark on a coding odyssey! 🌌✨
