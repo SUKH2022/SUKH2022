@@ -25,6 +25,10 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 [![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)](https://kotlinlang.org/)
 [![Mainframes](https://img.shields.io/badge/-Mainframes-007ACC?style=flat-square&logo=IBM&logoColor=white)](https://www.ibm.com/it-infrastructure/z/mainframe)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
+[![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black)](https://reactjs.org/)
+[![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=Tailwind%20CSS&logoColor=white)](https://tailwindcss.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white)](https://www.mongodb.com/)
+[![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=Unity&logoColor=white)](https://unity.com/)
 
 ### 🚀 Blast Off!
 
