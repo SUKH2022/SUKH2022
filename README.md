@@ -2,7 +2,7 @@
 
 ### Hey there! 👋
 
-I'm Sukhpreet Saini, a thrill-seeking 4th-semester Computer Programming and Analysis student at Georgian College, Barrie Campus. My journey through the coding cosmos has been nothing short of exhilarating!
+I'm Sukhpreet Saini, a thrill-seeking 5th-semester Computer Programming and Analysis student at Georgian College, Barrie Campus. My journey through the coding cosmos has been nothing short of exhilarating!
 
 ### 💼 My Tech Universe
 
