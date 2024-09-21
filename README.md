@@ -128,6 +128,10 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <img src="https://img.icons8.com/?size=100&id=sFFBQN8kzSOS&format=png&color=000000" width="45" height="45" alt="VMware Workstation" />
       <br>VMware
   </td>
+  <td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
+    <br>Node.js
+  </td>
   </tr>
 </table>
 
