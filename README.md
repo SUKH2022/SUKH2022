@@ -11,11 +11,11 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 <table>
   <tr>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="55" height="55" />
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=python" alt="Python" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="55" height="55" />
       <br>Python
     </td>
     <td align="center" width="90">
@@ -38,9 +38,10 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="55" height="55" />
       <br>PHP
     </td>
+    </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="SQL" width="55" height="55" />
-      <br>SQL
+      <img src="https://skillicons.dev/icons?i=firebase" width="45" height="45" alt="Firebase" />
+      <br>Firebase
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" alt="Microsoft SQL" width="55" height="55" />
@@ -81,7 +82,7 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <br>Node.js
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=react" alt="React" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="55" height="55" />
       <br>React
     </td>
     <td align="center" width="90">
@@ -98,6 +99,35 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="55" height="55" />
       <br>Unity
     </td>
+    <td align="center" width="90">
+      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
+      <br>MySQL
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" alt="SQLite" />
+      <br>SQLite
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express" />
+      <br>Express
+    </td>
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=anaconda" width="45" height="45" alt="Anaconda" />
+      <br>Anaconda
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/?size=100&id=J0SgMWzAxqFj&format=png&color=000000" width="45" height="45" alt="Jupyter Notebook" />
+      <br>Jupyter
+    </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=azure" width="45" height="45" alt="Azure" />
+      <br>Azure
+    </td>
+    <td align="center" width="90">
+      <img src="https://img.icons8.com/?size=100&id=sFFBQN8kzSOS&format=png&color=000000" width="45" height="45" alt="VMware Workstation" />
+      <br>VMware
+  </td>
   </tr>
 </table>
 
