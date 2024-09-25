@@ -132,6 +132,10 @@ Venturing into the world of coding, I wield languages and tools like a digital w
     <img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js" />
     <br>Node.js
   </td>
+  <td align="center" width="90">
+  <img src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=1341C1" width="45" height="45" alt="Cisco Packet Tracer" />
+  <br>Cisco Packet Tracer
+</td>
   </tr>
 </table>
 
