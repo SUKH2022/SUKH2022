@@ -19,11 +19,11 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <br>Python
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="55" height="55" />
       <br>Java
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="55" height="55" />
       <br>C++
     </td>
     <td align="center" width="90">
@@ -31,7 +31,7 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <br>C
     </td>
     <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=cs" alt="C#" width="55" height="55" />
+      <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="55" height="55" />
       <br>C#
     </td>
     <td align="center" width="90">
@@ -135,7 +135,25 @@ Venturing into the world of coding, I wield languages and tools like a digital w
   <td align="center" width="90">
   <img src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=1341C1" width="45" height="45" alt="Cisco Packet Tracer" />
   <br>Cisco Packet Tracer
-</td>
+  </td>
+  </tr>
+  <tr>
+    <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=Ih6zOUuHwOOs&format=png&color=000000" width="45" height="45" alt="IoT Icon" />
+    <br>Internet of Things
+    </td>
+    <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=dJjTWMogzFzg&format=png&color=000000" width="45" height="45" alt="Vite" />
+    <br>Vite
+    </td>
+    <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=70667&format=png&color=000000" width="45" height="45" alt="Power BI" />
+    <br>Power BI
+    </td>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" />
+    <br>AWS
+    </td>
   </tr>
 </table>
 
