@@ -71,7 +71,7 @@ Venturing into the world of coding, I wield languages and tools like a digital w
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin" width="55" height="55" />
-      <br>Kotlin
+      <br>Kotlin with Android Studio
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/?size=100&id=69456&format=png&color=000000" alt="Mainframes" width="55" height="55" />
