@@ -1,4 +1,4 @@
-# 👨‍💻 Sukhpreet Saini - Coding Enthusiast
+f# 👨‍💻 Sukhpreet Saini - Coding Enthusiast
 
 ### Hey there! 👋
 
@@ -97,7 +97,7 @@ Venturing into the world of coding, I wield languages and tools like a digital w
   <tr>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=unity" alt="Unity" width="55" height="55" />
-      <br>Unity
+      <br>Unity hub with 6000.0.10f1
     </td>
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="55" height="55" />
