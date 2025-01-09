@@ -154,6 +154,18 @@ Venturing into the world of coding, I wield languages and tools like a digital w
     <img src="https://techstack-generator.vercel.app/aws-icon.svg" width="45" height="45" alt="AWS" />
     <br>AWS
     </td>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/swift-icon.svg" alt="Swift Icon" width="65" height="65" />
+    <br>Swift
+    </td>
+    <td align="center" width="90">
+    <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="Sass Icon" width="65" height="65" />
+    <br>Sass
+    </td>
+    <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000" width="45" height="45" alt="Unreal Engine" />
+    <br>Unreal Engine
+    </td>
   </tr>
 </table>
 
