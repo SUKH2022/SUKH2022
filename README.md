@@ -1,4 +1,4 @@
-f# 👨‍💻 Sukhpreet Saini - Coding Enthusiast
+# 👨‍💻 Sukhpreet Saini - Coding Enthusiast
 
 ### Hey there! 👋
 
@@ -75,7 +75,7 @@ Venturing into the world of coding, I wield languages and tools like a digital w
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/?size=100&id=69456&format=png&color=000000" alt="Mainframes" width="55" height="55" />
-      <br>Mainframes
+      <br>Mainframes with vista TN3270
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="55" height="55" />
