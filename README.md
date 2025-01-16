@@ -166,6 +166,10 @@ Venturing into the world of coding, I wield languages and tools like a digital w
     <img src="https://img.icons8.com/?size=100&id=69503&format=png&color=000000" width="45" height="45" alt="Unreal Engine" />
     <br>Unreal Engine
     </td>
+    <td align="center" width="90">
+    <img src="https://img.icons8.com/?size=100&id=laYYF3dV0Iew&format=png&color=000000" height="45" alt="Microsoft SQL Server Management Studio" />
+    <br>Microsoft SQL Server Management Studio - 20.2
+</td>
   </tr>
 </table>
 
