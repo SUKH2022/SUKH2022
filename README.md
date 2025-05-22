@@ -174,6 +174,14 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <img src="https://img.icons8.com/?size=100&id=55497&format=png&color=000000" alt="Insomnia" />
       <br>Insomnia - API Testing
     </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="55" height="55" />
+      <br>Bootstrap
+  </td>
+    <td align="center" width="90">
+      <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55" />
+      <br>MongoDB
+  </td>
   </tr>
 </table>
 
