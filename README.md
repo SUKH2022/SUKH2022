@@ -1,16 +1,12 @@
-# 👨‍💻 Sukhpreet Saini - Coding Enthusiast
+# 👨‍💻 Sukhpreet Saini - Application Analyst Developer
 
 ### Hey there! 👋
 
-I'm Sukhpreet Saini, currently diving deep into my 8-month co-op as part of the Advanced Diploma in Computer Programming and Analysis at Georgian College. With all my academic semesters completed, I'm now applying my skills in real-world tech environments, driven by a passion for technology, innovation, and problem-solving.
+I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently working as an **Application Programmer Analyst (Co-op)** at the **Ontario Public Service**, where I develop and maintain enterprise-level applications supporting critical service delivery to Ontarians.
 
-As a **Dean's List** recipient for six consecutive terms, I've consistently demonstrated my ability to thrive in academic and real-world challenges. From developing interactive web solutions to optimizing complex business systems, I’m focused on delivering efficient, high-quality results.
+With hands-on **OPS I&IT experience** in data integration, business intelligence, and full-stack development, I'm passionate about building innovative solutions that drive real-world impact.
 
-### 🤝 Collaboration & Mentorship
-
-In addition to my technical skills, I’ve worked as a **Program Tutor** at Georgian College, honing my ability to break down complex concepts and collaborate with diverse teams. Volunteering and mentoring are passions of mine—helping others succeed is as rewarding as coding itself!
-
-🚀 Now, as I near the completion of my diploma, I’m ready to apply my skills in a role that focuses on **system optimization** and **business application enhancement**.
+---
 
 ### 💼 My Tech Universe
 
@@ -185,15 +181,39 @@ Venturing into the world of coding, I wield languages and tools like a digital w
   </tr>
 </table>
 
-### 🚀 Blast Off!
+---
 
-Curious about my coding endeavors? Check out my GitHub statistics:
+### 🏆 Achievements
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sukh2022&theme=tokyonight)
+- **Dean's List Honours** – Six consecutive semesters (GPA 3.9+)
+- **Microsoft Certified: Azure Fundamentals (AZ-900)**
+- **Career Essentials in Project Management** – Microsoft & LinkedIn
+- **IBM Data Visualization with Excel and Cognos**
+- Led **OPS Test Automation Suite** initiative using Selenium and Python
 
-### 😎 Github stats:
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sukh2022&layout=compact" />
-</a>
+---
 
-Ready to build something amazing together? Let's connect and embark on a coding odyssey! 🌌✨
+### 📂 Featured Projects
+
+🔹 **OPS Test Automation Suite**  
+*Led an initiative to automate manual testing processes for critical social services applications using Selenium and Python, reducing manual effort by 40% and improving data validation accuracy.*
+
+🔹 **Data Analytics Project Portfolio**  
+*Conducted data analysis on real-world datasets (NYC traffic, Ontario Air Quality) using SQL, Python, and Power BI, creating interactive dashboards for data-driven decision making.*
+
+🔹 **Grizzley Bookstore Application**  
+*Scrum Master & Developer for a full-stack MERN e-commerce platform with Redux and JWT authentication.*
+
+---
+
+### 🤝 Let's Connect!
+
+I'm actively seeking **full-time opportunities** in software development, data analysis, and application development. If you're looking for a passionate developer who thrives on solving complex problems, let's talk!
+
+📧 **Email:** sukhpreet.saini2020@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/sukhpreet-saini](https://linkedin.com/in/sukhpreet-saini)  
+🌐 **Portfolio:** [sukh2022.github.io/portfolio](https://sukh2022.github.io/portfolio)
+
+---
+
+*"Turning complex problems into elegant solutions, one line of code at a time."* ✨
