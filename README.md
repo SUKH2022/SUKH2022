@@ -212,7 +212,7 @@ I'm actively seeking **full-time opportunities** in software development, data a
 
 📧 **Email:** sukhpreet.saini2020@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/sukhpreet-saini](https://linkedin.com/in/sukhpreet-saini)  
-🌐 **Portfolio:** [sukh2022.github.io/portfolio]([https://sukh2022.github.io/portfolio](https://sukh2022.github.io/Profile_project/))
+🌐 **Portfolio:** [sukh2022.github.io/portfolio](https://sukh2022.github.io/Profile_project/)
 
 ---
 
