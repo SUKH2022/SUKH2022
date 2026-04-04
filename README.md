@@ -195,6 +195,14 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 
 ### 📂 Featured Projects
 
+🔹 **TPON Payment Allocation Tracker** 📧
+
+*An intelligent automation tool that scrapes payment-related emails from shared Microsoft Outlook inboxes, extracts key financial and case data, and presents it in an actionable format.*
+
+**Key Features**: Smart email scanning | Regex pattern extraction (dollar amounts & case numbers) | Priority tagging (Urgent/Blocking) | Centralized dashboard view
+
+📋 **BA Artifacts Included**: Complete Business Requirements Document (BRD) | Requirements Traceability Matrix (100% coverage) | As-Is & To-Be Process Flows | Success Metrics (15 min → 2 min triage)
+
 🔹 **OPS Test Automation Suite**  
 *Led an initiative to automate manual testing processes for critical social services applications using Selenium and Python, reducing manual effort by 40% and improving data validation accuracy.*
 
