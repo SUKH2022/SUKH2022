@@ -2,7 +2,7 @@
 
 ### Hey there! 👋
 
-I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently working as an **Application Programmer Analyst (Co-op)** at the **Ontario Public Service**, where I develop and maintain enterprise-level applications supporting critical service delivery to Ontarians.
+I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently working as an **Application Programmer Analyst (Co-op)** at the **Ontario Public Service**, where I develop and maintain enterprise-level applications supporting critical service delivery to Ontarians. Currently applying data analytics and automation to improve operational workflows and support evidence-based decision-making in the Ontario Public Service.
 
 With hands-on **OPS I&IT experience** in data integration, business intelligence, and full-stack development, I'm passionate about building innovative solutions that drive real-world impact.
 
