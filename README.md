@@ -1,4 +1,4 @@
-# 👨‍💻 Sukhpreet Saini - Application Analyst Developer
+# 👨‍💻 Sukhpreet Saini - Application Programmer Analyst
 
 ### Hey there! 👋
 
