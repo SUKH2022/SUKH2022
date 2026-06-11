@@ -178,6 +178,25 @@ Venturing into the world of coding, I wield languages and tools like a digital w
       <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="55" height="55" />
       <br>MongoDB
   </td>
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/color/96/figma--v1.png" alt="Figma" width="55" height="55" />
+    <br>Figma
+  </td>
+
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/color/96/azure-1.png" alt="Azure DevOps" width="55" height="55" />
+    <br>Azure DevOps
+  </td>
+
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/color/96/ibm.png" alt="IBM Cognos" width="55" height="55" />
+    <br>IBM Cognos
+  </td>
+
+  <td align="center" width="90">
+    <img src="https://img.icons8.com/color/96/oracle-logo.png" alt="Siebel CRM" width="55" height="55" />
+    <br>Siebel CRM
+  </td>
   </tr>
 </table>
 
