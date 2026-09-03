@@ -1,10 +1,24 @@
 # 👨‍💻 Sukhpreet Saini - Application Programmer Analyst
+**Data Analytics • Process Automation • Business Analysis & Systems • Full-Stack Development**
+
+---
 
 ### Hey there! 👋
 
-I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently working as an **Application Programmer Analyst (Co-op)** at the **Ontario Public Service**, where I develop and maintain enterprise-level applications supporting critical service delivery to Ontarians. Currently applying data analytics and automation to improve operational workflows and support evidence-based decision-making in the Ontario Public Service.
+I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently working as an **Application Programmer Analyst** at the **Ontario Public Service (OPS)**, where I bridge the gap between business processes and technology. 
 
-With hands-on **OPS I&IT experience** in data integration, business intelligence, and full-stack development, I'm passionate about building innovative solutions that drive real-world impact.
+I apply data analytics, process automation, business analysis, and quality assurance to optimize operational workflows and support evidence-based decision-making for public sector initiatives.
+
+With hands-on **OPS I&IT experience** in data integration, business intelligence, system testing, and application maintenance, I'm passionate about delivering user-centric solutions that drive measurable operational impact.
+
+---
+
+### 🛠️ Tech Stack & Core Capabilities
+
+* **Data Analytics & Business Intelligence:** SQL (MSSQL, MySQL, SQLite, MongoDB), Power BI, Python (Pandas, Jupyter, Anaconda), IBM Cognos
+* **Business Analysis & Systems:** Business Requirements Documents (BRD), Process Mapping (As-Is / To-Be), Requirements Traceability Matrices, UI/UX Wireframing (Figma), Agile/Scrum, Jira, Confluence, Azure DevOps, Siebel CRM
+* **Process Automation & Quality Assurance:** Python, VBA, Selenium WebDriver, Test Case Execution (UAT, Unit, System Testing), Insomnia (API Testing)
+* **Software Development & Cloud:** Java, C#, C++, JavaScript, React, Node.js, Express, HTML5/CSS3, Azure (AZ-900 Certified), Git/GitHub
 
 ---
 
@@ -204,20 +218,19 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 
 ### 🏆 Achievements
 
-- **Dean's List Honours** – Six consecutive semesters (GPA 3.9+)
+- **Dean's List Honours** – Six consecutive semesters (GPA 3.9+) at Georgian College
 - **Microsoft Certified: Azure Fundamentals (AZ-900)**
 - **Career Essentials in Project Management** – Microsoft & LinkedIn
 - **IBM Data Visualization with Excel and Cognos**
-- Led **OPS Test Automation Suite** initiative using Selenium and Python
+- **Process Automation & Quality Assurance Leadership** – Spearheaded automation initiatives utilizing Selenium, Python, and VBA across OPS projects
 
 ---
 
 ### 📂 Featured Projects
 
-🔹 **TPON Payment Allocation Tracker**
-
-*An intelligent automation tool that scrapes payment-related emails from shared Microsoft Outlook inboxes, extracts key financial and case data, and presents it in an actionable format.*
-- 📋 **BA Artifacts Included**: Complete Business Requirements Document (BRD) | Requirements Traceability Matrix (100% coverage) | As-Is & To-Be Process Flows | Success Metrics (15 min → 2 min triage)
+🔹 **TPON Payment Allocation & Automation Suite**  
+*An intelligent automation tool that scrapes payment-related emails from shared Microsoft Outlook inboxes, extracts key financial data, and presents it in an actionable format.*
+- 📋 **BA Artifacts Included:** Complete Business Requirements Document (BRD) | Requirements Traceability Matrix (100% coverage) | As-Is & To-Be Process Flows | Success Metrics (15 min → 2 min triage)
 
 🔹 **OPS Test Automation Suite**  
 *Led an initiative to automate manual testing processes for critical social services applications using Selenium and Python, reducing manual effort by 40% and improving data validation accuracy.*
@@ -232,7 +245,11 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 
 ### 🤝 Let's Connect!
 
-I'm actively seeking **full-time opportunities** in software development, data analysis, and application development. If you're looking for a passionate developer who thrives on solving complex problems, let's talk!
+I am actively open to full-time opportunities across:
+- 📊 **Business / Data Analysis** (BA / Data Analyst / Program Data Analyst)
+- ⚙️ **Process Automation & Quality Assurance** (QA Analyst / Test Automation)
+- 📋 **Program & Project Coordination** (Project Coordinator / System Officer / Admin Support)
+- 💻 **Software & Web Development** (Developer / Application Programmer Analyst)
 
 📧 **Email:** sukhpreet.saini2020@gmail.com  
 🔗 **LinkedIn:** [linkedin.com/in/sukhpreet-saini](https://linkedin.com/in/sukhpreet-saini)  
@@ -240,4 +257,4 @@ I'm actively seeking **full-time opportunities** in software development, data a
 
 ---
 
-*"Turning complex problems into elegant solutions, one line of code at a time."* ✨
+*"Bridging business needs and technical solutions to turn complex problems into operational impact."* ✨
