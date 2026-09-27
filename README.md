@@ -1,13 +1,13 @@
-# 👨‍💻 Sukhpreet Saini - Application Programmer Analyst
-**Data Analytics • Process Automation • Business Analysis & Systems • Full-Stack Development**
+# 👨‍💻 Sukhpreet Saini - I&IT Senior Business Analyst
+**Business Analysis • Data Analytics • Process Automation • Systems & Quality Assurance**
 
 ---
 
 ### Hey there! 👋
 
-I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently working as an **Application Programmer Analyst** at the **Ontario Public Service (OPS)**, where I bridge the gap between business processes and technology. 
+I'm **Sukhpreet Saini**, an **Honours Graduate (6x Dean's List)** from the Advanced Diploma in Computer Programming and Analysis at **Georgian College**. I'm currently serving as an **I&IT Senior Business Analyst** with the **Transfer Payment Ontario Branch – Program Implementation team** at the **Ministry of Public and Business Service Delivery and Procurement (Ontario Public Service)**.
 
-I apply data analytics, process automation, business analysis, and quality assurance to optimize operational workflows and support evidence-based decision-making for public sector initiatives.
+I lead business analysis and implementation activities for transfer payment programs on the Transfer Payment Ontario (TPON) platform, bridging the gap between business processes and technology. My work spans data analytics, process automation, business analysis, and quality assurance to optimize operational workflows and support evidence-based decision-making for public sector initiatives.
 
 With hands-on **OPS I&IT experience** in data integration, business intelligence, system testing, and application maintenance, I'm passionate about delivering user-centric solutions that drive measurable operational impact.
 
@@ -223,6 +223,8 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 - **Career Essentials in Project Management** – Microsoft & LinkedIn
 - **IBM Data Visualization with Excel and Cognos**
 - **Process Automation & Quality Assurance Leadership** – Spearheaded automation initiatives utilizing Selenium, Python, and VBA across OPS projects
+- **AI Literacy & Agentic AI Certifications** – Anthropic, IPAC, Microsoft, SHRM, HRCI, PMI, NASBA (2026)
+- **Employee of the Month** – McDonald's (February 2024) & Scholarship Recipient
 
 ---
 
@@ -231,6 +233,13 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 🔹 **TPON Payment Allocation & Automation Suite**  
 *An intelligent automation tool that scrapes payment-related emails from shared Microsoft Outlook inboxes, extracts key financial data, and presents it in an actionable format.*
 - 📋 **BA Artifacts Included:** Complete Business Requirements Document (BRD) | Requirements Traceability Matrix (100% coverage) | As-Is & To-Be Process Flows | Success Metrics (15 min → 2 min triage)
+
+🔹 **IL AI Assistant**  
+*Developed a lightweight, browser-based AI agent designed to streamline operational workflows by integrating disparate data sources (Jira, Confluence, Excel) into a unified, actionable interface.*
+- 🚀 Reduced daily status compilation from **45 minutes to 2 minutes**
+- 🔧 Built automated "Smart Task Analysis" to identify blockers and "Payment Authorization Automation" to extract vendor/financial data directly from meeting notes
+- 🛠️ **Tech Stack:** Node.js, Express.js, Gemini 2.0 Flash API, OpenRouter, JavaScript
+- 💡 Designed for zero-IT dependency, allowing teams to deploy local production-ready demos without administrative rights or server provisioning
 
 🔹 **OPS Test Automation Suite**  
 *Led an initiative to automate manual testing processes for critical social services applications using Selenium and Python, reducing manual effort by 40% and improving data validation accuracy.*
@@ -241,12 +250,15 @@ Venturing into the world of coding, I wield languages and tools like a digital w
 🔹 **Grizzley Bookstore Application**  
 *Scrum Master & Developer for a full-stack MERN e-commerce platform with Redux and JWT authentication.*
 
+🔹 **Operation Phoenix**  
+*Action-adventure game built in Unreal Engine 5.4.4 featuring Blueprint scripting, custom 3D assets, and real-time VFX.*
+
 ---
 
 ### 🤝 Let's Connect!
 
 I am actively open to full-time opportunities across:
-- 📊 **Business / Data Analysis** (BA / Data Analyst / Program Data Analyst)
+- 📊 **Business / Data Analysis** (Business Analyst / Data Analyst / Program Data Analyst)
 - ⚙️ **Process Automation & Quality Assurance** (QA Analyst / Test Automation)
 - 📋 **Program & Project Coordination** (Project Coordinator / System Officer / Admin Support)
 - 💻 **Software & Web Development** (Developer / Application Programmer Analyst)
